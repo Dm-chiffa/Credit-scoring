@@ -14,6 +14,7 @@
 - 'competition.ipynb' - основной файл с решением
 - 'requirements.txt' - список зависимостей
 - 'README.md' - описание
+- 'submission.csv' - финальный файл с предсказанием
 
 ## Как запустить
 1. Установить зависимости ('pip install -r requirements.txt')
